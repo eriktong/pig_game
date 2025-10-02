@@ -1,8 +1,9 @@
 # pig_game
 
+**Live Demo:** https://ornate-beignet-d18bc4.netlify.app/
+
 ![Pages Deploy](https://github.com/eriktong/pig_game/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/pig_game) 
 
-**Live Demo:** [https://eriktong.github.io/pig_game/](https://eriktong.github.io/pig_game/)
 
 > Two-player Pig Dice game.
 
